@@ -1,0 +1,33 @@
+Fixed Price $300.00 to be paid in full upon completion and functionality test. 
+
+As we discussed we need to capture the URL of a visitor when they fill out our contact form using a hidden field. So we can track how that visitor/lean came to our page, to determine organic vs. paid advertising channel. 
+
+All of our Bing & Google advertisements have been coded with URL/UTM codes that must be captured when the lead form is completed, as well as URLs from organic visitors. 
+
+Below is an example of a URL from a visitor from one of our paid advertisements on Google: 
+
+http://www.boedeker.com/acetal_p.htm?utm_source=google&utm_medium=cpc&utm_campaign=Delrin&utm_content=delrin%20tubes&utm_term=%7Bkeyword%7D 
+
+Deliverables for this project are as follows: 
+
+1. HTML CODE to be supplied to our IT Manager for the hidden field that will capture the URL/UTM of the visitor 
+
+a. http://www.boedeker.com/contact.htm - this is the our main contact form that is currently set up with SalesForce’s W2L form 
+
+b. http://www.xtremespinningwheels.com/contact-xu2.htm - this is a secondary one that is not integrated with SalesForce and once completed is emailed to our sales staff, we would like the URL from the hidden field to populate the email as well for tracking purposes. 
+
+
+2. W2L Integration - Once the code has been added to our website, integrate the hidden field from the contact form with our SF W2L Form – We prefer to do the SalesForce integration through a go-to-meeting session or some other screen sharing software for security purposes. I spoke to SalesForce today and they explained to me we do not have the ability to restrict permission for an administrator login with our Professional edition. 
+
+
+
+Once the two deliverables above are complete and operational, payment in full will be provided via check. 
+
+If you have any questions on our Website please feel free to contact our WebMaster / I.T. Manager Scott Baer 
+
+Scott Baer 
+WebMaster / I.T. Manager 
+scottb@boedeker.com 
+361-401-7247 direct 
+
+Let me know if you need anything else from us to proceed.
